@@ -21,12 +21,6 @@ To run this project, you’ll need the following Python libraries:
 - `imblearn` (for SMOTE)
 - `xgboost`
 
-Install the required libraries using pip:
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn xgboost
-```
-
 The project is implemented in a Jupyter Notebook and should be executed sequentially to ensure that all dependencies are correctly loaded.
 
 ## Format
